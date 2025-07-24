@@ -27,6 +27,9 @@ p {
   text-align: center;
   color: #555;
   border-radius: 5px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
 }
 form {
   display: flex;
@@ -48,7 +51,7 @@ form input[type="submit"] {
   cursor: pointer;
 }
 .footer {
-  background-color: #e78282;
+  background-color: #bcfaf2;
   padding: 10px;
   text-align: center;
 }

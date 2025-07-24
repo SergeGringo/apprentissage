@@ -47,3 +47,8 @@ form input[type="submit"] {
   border: none;
   cursor: pointer;
 }
+.footer {
+  background-color: #e78282;
+  padding: 10px;
+  text-align: center;
+}
